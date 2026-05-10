@@ -766,6 +766,11 @@ a {
   margin-top: 4px;
 }
 
+.table td select {
+  min-width: 150px;
+  width: 100%;
+}
+
 .location-card {
   overflow: hidden;
   padding: 0;
