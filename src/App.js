@@ -106,7 +106,7 @@ const scheduleItems = [
 const homeHighlights = [
   {
     title: "Program mudah dipilih",
-    description: "Kategori kursus dipisahkan dengan rapi supaya pengunjung booth bisa cepat menemukan yang paling cocok.",
+    description: "Kategori kursus dipisahkan dengan rapi agar pendaftar bisa cepat menemukan yang paling cocok.",
   },
   {
     title: "Jadwal lebih jelas",
@@ -591,7 +591,7 @@ function HomeSection({
         <div className="section-head">
           <div>
             <span className="eyebrow">Keunggulan</span>
-            <h2>Kenapa tampilan ini enak dipakai di booth</h2>
+            <h2>Kenapa Harus Mendaftar Di Web Aliah</h2>
           </div>
         </div>
         <div className="grid cards-3">
